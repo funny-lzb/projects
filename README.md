@@ -12,7 +12,7 @@
 
 ### 🏀 篮球兄弟
 
-[访问网站](https://basketballbros.net)
+[Basketball bros](https://basketballbros.net)
 
 快节奏的篮球对战游戏，提供单人和多人模式：
 
@@ -21,9 +21,9 @@
 - 支持疯狂扣篮和三分投射
 - 支持 11 种语言版本
 
-### ⚽ 足球兄弟
+### 🏈 橄榄球兄弟
 
-[访问网站](https://football-bros.net)
+[football bros](https://football-bros.net)
 
 激动人心的足球对战游戏：
 
@@ -34,7 +34,7 @@
 
 ### 🎮 沙俄罗斯方块
 
-[访问网站](https://sand-tetris.online)
+[sand tetris](https://sand-tetris.online)
 
 创新的俄罗斯方块玩法：
 
@@ -45,7 +45,7 @@
 
 ### 🖼️ WebP 转 PNG 转换器
 
-[访问网站](https://webp2png-converter.com)
+[webp to png](https://webp2png-converter.com)
 
 免费在线图片格式转换工具：
 
@@ -76,7 +76,7 @@ Welcome to our collection of games and tools! Here you'll find a variety of ente
 
 ### 🏀 Basketball Bros
 
-[Visit Website](https://basketballbros.net)
+[Basketball Bros](https://basketballbros.net)
 
 A fast-paced basketball game with single and multiplayer modes:
 
@@ -85,9 +85,9 @@ A fast-paced basketball game with single and multiplayer modes:
 - Spectacular dunks and three-pointers
 - Available in 11 languages
 
-### ⚽ Football Bros
+### 🏈 Football Bros
 
-[Visit Website](https://football-bros.net)
+[Football Bros](https://football-bros.net)
 
 An exciting football game experience:
 
@@ -98,7 +98,7 @@ An exciting football game experience:
 
 ### 🎮 Sand Tetris
 
-[Visit Website](https://sand-tetris.online)
+[Sand Tetris](https://sand-tetris.online)
 
 An innovative take on Tetris:
 
@@ -109,7 +109,7 @@ An innovative take on Tetris:
 
 ### 🖼️ WebP to PNG Converter
 
-[Visit Website](https://webp2png-converter.com)
+[webp to png](https://webp2png-converter.com)
 
 Free online image format converter:
 
